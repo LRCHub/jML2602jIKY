@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "Grown Too Old",
+  "base_artist": "VivaOla",
+  "createdAt": "2026-02-13T01:02:16.951396Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Grown Too Old",
+      "artist": "VivaOla",
+      "has_synced": false,
+      "path": "select/pl_01_Grown_Too_Old_VivaOla.txt"
+    }
+  ]
+}
